@@ -12,12 +12,14 @@
 ### Experience
 
 **PhD**
+
 | Period | Formation | Description |
 |---|---|---|
 | 2020 - 2023 | [**Laboratoire de Chimie Théorique - UMR7616**](https://www.lct.jussieu.fr/) | Sorbonne Université (France, Paris 05) <br> Supervisors : [Dr. Julien Toulouse](https://www.lct.jussieu.fr/pagesperso/toulouse/) & [Dr. Emmanuel Giner](https://www.researchgate.net/profile/Emmanuel-Giner) <br> Development of hybrid methods based one wave-function theory and density functional theory for strong correlation |
-| 2021-2022 | Teaching: [**Numerical methods for physics - LU2PY222**](http://licence.physique.sorbonne-universite.fr/_resources/2-cursus-L2/fichers-pdf/LU2PY222_Fiche_UE.pdf?download=true) | Public: Physics bachelor 2nd year students ([Ressources](https://dtraore97.github.io/ressources/LU2PY222)) |
+| 2021 - 2022 | Teaching: [**Numerical methods for physics - LU2PY222**](http://licence.physique.sorbonne-universite.fr/_resources/2-cursus-L2/fichers-pdf/LU2PY222_Fiche_UE.pdf?download=true) | Public: Physics bachelor 2nd year students ([Ressources](https://dtraore97.github.io/ressources/LU2PY222)) |
 
 **Internships**
+
 | Period | Formation | Description |
 |---|---|---|
 | 2020 (5 months) | [**Laboratoire de Chimie Théorique - UMR7616**](https://www.lct.jussieu.fr/) | Sorbonne Université (France, Paris 05) <br> Supervisors : [Dr. Julien Toulouse](https://www.lct.jussieu.fr/pagesperso/toulouse/) & [Dr. Emmanuel Giner](https://www.researchgate.net/profile/Emmanuel-Giner) <br> Implementaion and test of the self consistent basis-set correction method in Quantum Package |
