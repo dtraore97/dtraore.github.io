@@ -1,7 +1,7 @@
 ## Index
 [Publications](https://dtraore97.github.io/publications) \
 [Communications](https://dtraore97.github.io/communications) \
-[resume](https://dtraore97.github.io/resume)
+[Resume](https://dtraore97.github.io/resume)
 
 ## About me
 2nd year PhD candidate
