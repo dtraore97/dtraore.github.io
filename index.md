@@ -5,7 +5,7 @@
 ## About me
 2nd year PhD candidate
 \
-Contact : diata.traore[at]sorbonne-universite.fr
+Contact : diata.traore[at]sorbonne-universite[dot]fr
 
 ### Supervisors
 - [Dr. Julien Toulouse](https://www.lct.jussieu.fr/pagesperso/toulouse/)
