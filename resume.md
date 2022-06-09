@@ -9,3 +9,8 @@
 | 2018-2019 | [**Master level 1 Fundamental Physics and Applications**](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-physique-fondamentale-et-applications/m1-master-premiere-annee) | Sorbonne Université (France, Paris, 05) <br> *Quantum mechanics, Statistical mechanics, Classical Field Theory, Solid State Physics, Numerical methods for Scientific Calculations* |
 | 2015-2018 | [**Bachelor in General Physics**](https://sciences.sorbonne-universite.fr/formation-sciences/licences/licences-generales-l2-l3/licence-de-physique) | Sorbonne Université (France, Paris, 05) |
 
+### Experience
+
+| Period | Formation | Description |
+|---|---|---|
+| 2020 - 2023 | [**Laboratoire de Chimie Théorique - UMR7616**](https://www.lct.jussieu.fr/) | Sorbonne Université (France, Paris 05) <br> Supervisors : [Dr. Julien Toulouse](https://www.lct.jussieu.fr/pagesperso/toulouse/) & [Dr. Emmanuel Giner](https://www.researchgate.net/profile/Emmanuel-Giner) <br> Development of hybrid methods based one wave-function theory and density functional theory for strong correlation |
