@@ -12,7 +12,7 @@ Contact : diata.traore[at]sorbonne-universite[dot]fr
 - [Dr. Emmanuel Giner](https://www.researchgate.net/profile/Emmanuel-Giner)
 
 ### Where
-[Laboratoire de Chimie Théorique - UMR7616](https://www.lct.jussieu.fr/) - Sorbonne Université \/ CNRS
+[Laboratoire de Chimie Théorique - UMR7616](https://www.lct.jussieu.fr/) - Sorbonne Université, CNRS
 
 ### Project funding
 [erc-emc2](https://erc-emc2.eu/)
