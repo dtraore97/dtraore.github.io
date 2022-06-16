@@ -1,3 +1,5 @@
+[(Index)](https://dtraore97.github.io/)
+
 ## Publications
 [[3]](https://doi.org/10.1063/5.0076128) *Basis-set correction based on density-functional theory: Rigorous framework for a one-dimensional model*
 \
