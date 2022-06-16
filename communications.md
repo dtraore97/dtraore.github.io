@@ -1,4 +1,4 @@
-[(Accueil)](https://dtraore97.github.io/)
+[(Index)](https://dtraore97.github.io/)
 ## Communications
 
 ### Presentations
