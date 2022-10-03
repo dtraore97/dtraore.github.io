@@ -6,4 +6,4 @@
 
 
 ### Posters
-[June 2022: [ISTPC](https://quantique.u-strasbg.fr/ISTPC/)]; [August 2022: [DFT2022](https://www.dft2022.be/)] [Density-based basis-set correction method for molecular properties](https://github.com/dtraore97/dtraore97.github.io/files/8917784/diata_traore_poster_2022.pdf)
+[June 2022: [ISTPC](https://quantique.u-strasbg.fr/ISTPC/)] [August 2022: [DFT2022](https://www.dft2022.be/)] [Density-based basis-set correction method for molecular properties](https://github.com/dtraore97/dtraore97.github.io/files/8917784/diata_traore_poster_2022.pdf)
