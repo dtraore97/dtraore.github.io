@@ -5,7 +5,7 @@
 [Ressources](https://dtraore97.github.io/ressources)
 
 ## About me
-2nd year PhD candidate
+3rd year PhD candidate
 \
 Contact : diata.traore[at]sorbonne-universite[dot]fr
 
