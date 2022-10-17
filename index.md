@@ -5,7 +5,7 @@
 [Ressources](https://dtraore97.github.io/ressources)
 
 ## About me
-3rd year PhD candidate
+3rd year PhD candidate at Laboratoire de Chimie Théorique (UMR7616)
 \
 Contact : diata.traore[at]sorbonne-universite[dot]fr
 
