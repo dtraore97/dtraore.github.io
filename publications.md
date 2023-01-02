@@ -6,7 +6,7 @@
 D. Traore, E. Giner, J. Toulouse, Journal of Chemical Physics **156** 044113 1-13 (2022)
 \
 \
-[[2]](https://doi.org/10.1063/5.0087794) *Basis-set correction for coupled-cluster estimation of dipole moments*
+[[2]](https://doi.org/10.1063/5.0087794) [*Basis-set correction for coupled-cluster estimation of dipole moments*](https://dtraore97.github.io/TraTouGin-JCP-22.pdf)
 \
 D. Traore, J. Toulouse, E. Giner, Journal of Chemical Physics **156** 174101 1-9 (2022)
 \
