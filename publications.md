@@ -11,7 +11,7 @@ D. Traore, E. Giner, J. Toulouse, Journal of Chemical Physics **156** 044113 1-1
 D. Traore, J. Toulouse, E. Giner, Journal of Chemical Physics **156** 174101 1-9 (2022)
 \
 \
-[[1]](https://doi.org/10.1063/5.0057957) *Self-consistent density-based basis-set correction: How much do we lower total energies and improve dipole moments?*
+[1] [*Self-consistent density-based basis-set correction: How much do we lower total energies and improve dipole moments?*](https://dtraore97.github.io/GinTraPraTou-JCP-21.pdf)
 \
 E. Giner, D. Traore, B. Pradiner, J. Toulouse, Journal of Chemical Physics **155**, 204104 1-10 (2021)
 
