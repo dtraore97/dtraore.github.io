@@ -1,7 +1,7 @@
 [(Index)](https://dtraore97.github.io/)
 
 ## Publications
-[3] [*Basis-set correction based on density-functional theory: Rigorous framework for a one-dimensional model*]()
+[3] [*Basis-set correction based on density-functional theory: Rigorous framework for a one-dimensional model*](https://dtraore97.github.io/TraGinTou-JCP-22.pdf)
 \
 D. Traore, E. Giner, J. Toulouse, Journal of Chemical Physics **156** 044113 1-13 (2022)
 \
