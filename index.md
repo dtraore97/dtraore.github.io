@@ -15,8 +15,3 @@ Contact : diata.traore[at]sorbonne-universite[dot]fr
 
 ### Where
 [Laboratoire de Chimie Théorique - UMR7616](https://www.lct.jussieu.fr/) - Sorbonne Université, CNRS
-
-### Project funding
-[ERC-EMC2](https://erc-emc2.eu/)
-
-
