@@ -3,7 +3,7 @@
 
 ### Teaching
 [LU2PY222](https://dtraore97.github.io/ressources/LU2PY222)
-[Quantum Package 2.O](https://dtraore97.github.io/ressources/QP2)
+[Quantum Package 2.O](https://dtraore97.github.io/ressources/QP)
 
 ### My reference books
 For those who start their journey in the quantum chemistry world (or just looking for some references) : 
