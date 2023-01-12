@@ -10,5 +10,6 @@ Master template script:  [template.txt](https://dtraore97.github.io/script_for_m
 
 ## Programmer mode tutorial
 Instructions: [QuantumPackage_Prog.pdf](https://dtraore97.github.io/QuantumPackage_Prog(v2).pdf)\
+Density on grid script: [programfordensity.txt](https://dtraore97.github.io/programfordensity.txt)
 Master template script:  [template.txt](https://dtraore97.github.io/script_for_master.txt)
 
