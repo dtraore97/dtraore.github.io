@@ -1,8 +1,7 @@
 [(Index)](https://dtraore97.github.io/)
 ## Ressources
 
-### Teaching
-[LU2PY222](https://dtraore97.github.io/ressources/LU2PY222) \
+[LU2PY222 - Introduction to Python for physicists](https://dtraore97.github.io/ressources/LU2PY222) \
 [Quantum Package 2.0](https://dtraore97.github.io/ressources/QP)
 
 ### My reference books
