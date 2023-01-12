@@ -9,6 +9,6 @@ Instructions: [QuantumPackage_GS.pdf](https://dtraore97.github.io/QuantumPackage
 Master template script:  [template.txt](https://dtraore97.github.io/script_for_master.txt)
 
 ## Programmer mode tutorial
-Instructions: [QuantumPackage_Prog.pdf](https://dtraore97.github.io/QuantumPackage_Prog.pdf)\
+Instructions: [QuantumPackage_Prog.pdf](https://dtraore97.github.io/QuantumPackage_Prog(v2).pdf)\
 Master template script:  [template.txt](https://dtraore97.github.io/script_for_master.txt)
 
