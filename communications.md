@@ -8,3 +8,4 @@
 
 ### Posters
 [June 2022: [ISTPC](https://quantique.u-strasbg.fr/ISTPC/)] [August 2022: [DFT2022](https://www.dft2022.be/)] [Density-based basis-set correction method for molecular properties](https://github.com/dtraore97/dtraore97.github.io/files/8917784/diata_traore_poster_2022.pdf)
+[April 2023: [Workshop on excited-state methods](https://pfloos.github.io/PTEROSOR_midterm_workshop/)] [Basis-set correction based on DFT: linear-response formalism for excited-state energies](https://github.com/dtraore97/dtraore97.github.io/blob/a508f24308c16715cbb17199c5e60fd1118c7ebf/Linear_Response_Poster_diata_traore.pdf)
