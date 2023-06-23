@@ -6,9 +6,9 @@
 C. Feniou, M. Hassan, D. Traore, E. Giner, Y. Maday, JP. Piquemal, Manuscript Submitted (2023)
 \
 \
-[4] *Basis-set correction based on density-functional theory: Linear-response formalism for excited-state energies*
+[4] [*Basis-set correction based on density-functional theory: Linear-response formalism for excited-state energies*](https://dtraore97.github.io/TraGinTou-JCP-23.pdf)
 \
-D. Traore, E. Giner, J. Toulouse, Manuscript Submitted (2023)
+D. Traore, E. Giner, J. Toulouse, Journal of Chemical Chemistry **158**, 234107 (2023)
 \
 \
 [3] [*Basis-set correction based on density-functional theory: Rigorous framework for a one-dimensional model*](https://dtraore97.github.io/TraGinTou-JCP-22.pdf)
