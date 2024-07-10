@@ -14,6 +14,7 @@
 
 ### Experience
 **Research Scientist**
+
 | Period | Location | Description |
 |---|---|---|
 | 2024 -  | [**Qubit Pharmaceuticals**](https://www.qubit-pharmaceuticals.com/) | Electronic structures precision for drug design |
