@@ -11,7 +11,7 @@ D. Traore, O. Adjoua, C. Féniou, I.-M. Lygatsika, Y. Maday, E. Posenitskiy, K. 
 D. Traore, J. Toulouse, E. Giner, Faraday Discussions (2024)
 \
 \
-[5] *Overlap-ADAPT-VQE: Practival quantum chemistry on quantum computers via overlap-guided compact ansätze*
+[5] [*Overlap-ADAPT-VQE: Practival quantum chemistry on quantum computers via overlap-guided compact ansätze*](https://www.nature.com/articles/s42005-023-01312-y)
 \
 C. Feniou, M. Hassan, D. Traore, E. Giner, Y. Maday, JP. Piquemal, Commmunication Physics **6**, 192 (2023)
 \
