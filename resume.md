@@ -17,7 +17,7 @@
 
 | Period | Location | Description |
 |---|---|---|
-| 2024 -  | [**Qubit Pharmaceuticals**](https://www.qubit-pharmaceuticals.com/) | Electronic structures precision for drug design |
+| 2024 | [**Qubit Pharmaceuticals**](https://www.qubit-pharmaceuticals.com/) | Electronic structures precision for drug design |
 
 **Post-Doctoral Research**
 
