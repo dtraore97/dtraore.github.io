@@ -1,12 +1,12 @@
 [(Index)](https://dtraore97.github.io/)
 
 ## Publications
-[7] *Shortcut to Chemically Accurate Quantum Computing via Density-based Basis-set Correction*
+[7] [*Shortcut to Chemically Accurate Quantum Computing via Density-based Basis-set Correction*](https://arxiv.org/abs/2405.11567)
 \
 D. Traore, O. Adjoua, C. Féniou, I.-M. Lygatsika, Y. Maday, E. Posenitskiy, K. Hammernik, A. Peruzzo, J. Toulouse, E. Giner, J.-P. Piquemal, Manuscript Submitted (2024)
 \
 \
-[6] *Accelerated basis-set convergence of coupled-cluster excitation energies using the density-based basis-set correction method*
+[6] [*Accelerated basis-set convergence of coupled-cluster excitation energies using the density-based basis-set correction method*](https://hal.science/hal-04475187)
 \
 D. Traore, J. Toulouse, E. Giner, Faraday Discussions (2024)
 \
