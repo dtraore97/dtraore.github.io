@@ -34,3 +34,6 @@ D. Traore, J. Toulouse, E. Giner, Journal of Chemical Physics **156** 174101 1-9
 [1] [*Self-consistent density-based basis-set correction: How much do we lower total energies and improve dipole moments?*](https://dtraore97.github.io/GinTraPraTou-JCP-21.pdf)
 \
 E. Giner, D. Traore, B. Pradines, J. Toulouse, Journal of Chemical Physics **155**, 204104 1-10 (2021)
+
+## Phd thesis
+[L'extension de la méthode de correction de base par la densité pour les calculs de propriétés moléculaires](https://theses.hal.science/tel-04199146) (2024)
