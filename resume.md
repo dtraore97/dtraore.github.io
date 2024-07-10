@@ -13,10 +13,20 @@
 | 2015-2018 | [**Bachelor in General Physics**](https://sciences.sorbonne-universite.fr/formation-sciences/licences/licences-generales-l2-l3/licence-de-physique) | Sorbonne Université (France, Paris, 05) |
 
 ### Experience
+**Research Scientist**
+| Period | Location | Description |
+|---|---|---|
+| 2024 -  | [**Qubit Pharmaceuticals**](https://www.qubit-pharmaceuticals.com/) | Electronic structures precision for drug design |
+
+**Post-Doctoral Research**
+
+| Period | Location | Description |
+|---|---|---|
+| 2023 - 2024 | [**Laboratoire de Chimie Théorique - UMR7616**](https://www.lct.jussieu.fr/) | Sorbonne Université (France, Paris 05) <br> Supervisors : Pr. Jean-Philip Piquemal <br> Application of density-based basis-set correction to quantum computing calculations of electronic structures |
 
 **PhD**
 
-| Period | Formation | Description |
+| Period | Location | Description |
 |---|---|---|
 | 2020 - 2023 | [**Laboratoire de Chimie Théorique - UMR7616**](https://www.lct.jussieu.fr/) | Sorbonne Université (France, Paris 05) <br> Supervisors : [Dr. Julien Toulouse](https://www.lct.jussieu.fr/pagesperso/toulouse/) & [Dr. Emmanuel Giner](https://www.researchgate.net/profile/Emmanuel-Giner) <br> Development of hybrid methods based one wave-function theory and density functional theory for strong correlation |
 | 2021 - 2022 | Teaching: [**Numerical methods for physics - LU2PY222**](http://licence.physique.sorbonne-universite.fr/_resources/2-cursus-L2/fichers-pdf/LU2PY222_Fiche_UE.pdf?download=true) | Public: Physics bachelor 2nd year students ([Ressources](https://dtraore97.github.io/ressources/LU2PY222)) |
@@ -24,7 +34,7 @@
 
 **Internships**
 
-| Period | Formation | Description |
+| Period | Location | Description |
 |---|---|---|
 | 2020 (5 months) | [**Laboratoire de Chimie Théorique - UMR7616**](https://www.lct.jussieu.fr/) | Sorbonne Université (France, Paris 05) <br> Supervisors : [Dr. Julien Toulouse](https://www.lct.jussieu.fr/pagesperso/toulouse/) & [Dr. Emmanuel Giner](https://www.researchgate.net/profile/Emmanuel-Giner) <br> Implementaion and test of the self consistent basis-set correction method in Quantum Package |
 | 2019 (2 months) | [**Laboratoire de Physique Théorique de la Matière Condensée**](https://www.lptmc.jussieu.fr/) | Sorbonne Université (France, Paris 05) <br> Supervisor: [Dr. Marco Tarzia](https://www.lptmc.jussieu.fr/users/tarzia) <br> Application of the renormalization group method to the study of many-body localization transition in the Hilbert Space |
